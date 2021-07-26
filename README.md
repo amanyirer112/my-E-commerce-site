@@ -1,2 +1,2 @@
 # my-E-commerce-site
- A one-stop- center for all hbousehold items
+ A one-stop- center for all household items
